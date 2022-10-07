@@ -14,8 +14,8 @@ Swagger<br />
  Download or Clone the project
  
 # Run
-Run the *.snl file.
-Build the project.
-Run the project.
+Run the *.snl file.<br/>
+Build the project.<br/>
+Run the project.<br/>
 
 Swagger will run in the browser.
