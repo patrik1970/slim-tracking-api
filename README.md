@@ -11,4 +11,11 @@ The following project demonstrates an issue-tracking Web API.
 Swagger<br />
 
 # Install
+ Download or Clone the project
+ 
+# Run
+Run the *.snl file.
+Build the project.
+Run the project.
 
+Swagger will run in the browser.
