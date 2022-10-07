@@ -1,4 +1,4 @@
-#  Issue-tracking Web API with ASP.NET CORE and .NET 6.
+#  Slim issue-tracking Web API with ASP.NET CORE and .NET 6.
 
 The following project demonstrates an issue-tracking Web API.
 
@@ -8,8 +8,7 @@ The following project demonstrates an issue-tracking Web API.
  Entity Framework Core<br/>
  Sql Server Express<br/>
 .NET 6<br/>
+Swagger<br />
 
+# Install
 
-
-# Author
-Patrick Tshibanda
