@@ -21,3 +21,8 @@ Run the project.<br/>
 Swagger will run in the browser.<br/>
 
 Congratulation you have a working and running webapi !!!!
+
+# Mockdata for POST
+
+{"id":1,"title":"Add token from auth to webapi","description":"Make webapi more safe for the client","priority":2,"issueType":2,"created":"2022-09-22T12:32:24.027","completed":"2022-09-22T12:32:24.027"},
+{"id":2,"title":"Complete the tutorial","description":"Add documentation","priority":1,"issueType":2,"created":"2022-10-04T22:00:00","completed":"2022-10-08T22:00:00"}
